@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Podman REST API Service'
+# (c) ScriptKkiddie.org, MIT
 
 kill $(pidof "podman")
 
