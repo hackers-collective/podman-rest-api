@@ -5,4 +5,4 @@
 
 kill $(pidof "podman")
 
-podman system service --time=0 tcp::7181 & # Change the port number accordingly
+podman system service --time=0 tcp::2180 & # Change the port number accordingly
